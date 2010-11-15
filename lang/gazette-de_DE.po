@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timm Balouschek <fearblog@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: gazette/author.php:47
+#: gazette/single.php:56
+#: gazette/single.php:70
+#: gazette/archive.php:54
+#: gazette/search.php:40
+#: gazette/layouts/blog.php:52
+#: gazette/layouts/default.php:49
+msgid " Older Entries &raquo;"
+msgstr "Ältere Beiträge &raquo;"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "% Responses"
+msgstr "% Antworten"
+
+#. Text in function
+#: gazette/author.php:46
+#: gazette/single.php:55
+#: gazette/single.php:69
+#: gazette/archive.php:53
+#: gazette/search.php:39
+#: gazette/layouts/blog.php:51
+#: gazette/layouts/default.php:48
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Neuere Beiträge"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "0 Comments"
+msgstr "0 Kommentare"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#. Text in function
+#: gazette/author.php:35
+#: gazette/page.php:18
+#: gazette/single.php:28
+#: gazette/archive.php:42
+#: gazette/search.php:28
+#: gazette/layouts/blog.php:37
+#: gazette/template-full-width.php:24
+msgid "<span class=\"continue\">Continue Reading</span>"
+msgstr "<span class=\"continue\">Weiterlesen</span>"
+
+#. Text in echo
+#: gazette/ads/mpu_ad.php:7
+#: gazette/ads/block_ads.php:7
+#: gazette/ads/top_ad.php:7
+msgid "Advert"
+msgstr "Werbung"
+
+#. Text in echo
+#: gazette/archive.php:11
+#: gazette/archive.php:16
+#: gazette/archive.php:19
+#: gazette/archive.php:22
+#: gazette/header.php:11
+#: gazette/header.php:12
+msgid "Archive"
+msgstr "Archiv"
+
+#. Text in echo
+#: gazette/author.php:17
+#: gazette/header.php:8
+msgid "Author Archives"
+msgstr "Autorarchive"
+
+#. Text in echo
+#: gazette/archives.php:19
+#: gazette/sitemap.php:31
+msgid "Categories"
+msgstr "Kategorien"
+
+#. Text in echo
+#: gazette/single.php:11
+msgid "Categorized"
+msgstr "Kategorisiert"
+
+#. Text in echo
+#: gazette/sitemap.php:56
+msgid "Comments"
+msgstr "Kommentare"
+
+#. Text in echo
+#: gazette/sidebar.php:12
+msgid "Comments "
+msgstr "Kommentare"
+
+#. Text in echo
+#: gazette/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Direkter Link zum Kommentar"
+
+#. Text in echo
+#: gazette/header.php:62
+msgid "Enter search keyword"
+msgstr "Suchbegriff eingeben"
+
+#. Text in echo
+#: gazette/includes/featured.php:11
+msgid "Featured Stories"
+msgstr "Featured"
+
+#. Text in echo
+#: gazette/header.php:63
+msgid "Go"
+msgstr "Gehe zu"
+
+#. Text in echo
+#: gazette/header.php:47
+#: gazette/header.php:49
+msgid "Home"
+msgstr "Home"
+
+#. Text in echo
+#: gazette/sidebar.php:11
+msgid "Latest "
+msgstr "Aktuell"
+
+#. Text in function
+#: gazette/comments.php:58
+msgid "Leave a Reply"
+msgstr "Hinterlasse einen Kommentar"
+
+#. Text in function
+#: gazette/comments.php:58
+msgid "Leave a Reply to %s"
+msgstr "Hinterlasse einen Kommentar zu %s"
+
+#. Text in echo
+#: gazette/comments.php:72
+msgid "Log out of this account"
+msgstr "Aus diesem Account ausloggen"
+
+#. Text in echo
+#: gazette/comments.php:72
+msgid "Logout &raquo;"
+msgstr "Ausloggen &raquo; "
+
+#. Text in echo
+#: gazette/comments.php:80
+msgid "Mail (will not be published)"
+msgstr "Mail (wird nicht veröffentlicht)"
+
+#. Text in echo
+#: gazette/archives.php:29
+msgid "Monthly Archives"
+msgstr "Monatsarchive"
+
+#. Text in echo
+#: gazette/comments.php:77
+msgid "Name"
+msgstr "Name"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "No Responses"
+msgstr "Keine Antworten"
+
+#. Text in echo
+#: gazette/search.php:49
+msgid "None Found"
+msgstr "Keine gefunden"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "One Response"
+msgstr "1 Antwort"
+
+#. Text in echo
+#: gazette/404.php:7
+msgid "Page Not Found!"
+msgstr "Seite nicht gefunden"
+
+#. Text in echo
+#: gazette/sitemap.php:19
+msgid "Pages"
+msgstr "Seiten"
+
+#. Text in echo
+#: gazette/includes/video.php:39
+msgid "Permalink to"
+msgstr "Permalink zu"
+
+#. Text in echo
+#: gazette/sidebar.php:32
+#: gazette/layouts/default.php:28
+#: gazette/layouts/default.php:33
+msgid "Permalink to "
+msgstr "Permalink zu"
+
+#. Text in echo
+#: gazette/author.php:31
+#: gazette/archive.php:38
+#: gazette/layouts/blog.php:28
+#: gazette/layouts/blog.php:32
+msgid "Permanent Link to"
+msgstr "Permanenter Link zu"
+
+#. Text in echo
+#: gazette/includes/theme-widgets.php:14
+msgid "Photos on "
+msgstr "Fotos auf"
+
+#. Text in echo
+#: gazette/sidebar.php:10
+msgid "Popular "
+msgstr "Belibet"
+
+#. Text in echo
+#: gazette/archives.php:43
+msgid "Popular Tags"
+msgstr "Beliebte Tags"
+
+#. Text in echo
+#: gazette/layouts/blog.php:40
+msgid "Posted in"
+msgstr "Veröffentlicht in"
+
+#. Text in echo
+#: gazette/search.php:31
+#: gazette/layouts/default.php:36
+msgid "Posted in "
+msgstr "Veröffentlicht in"
+
+#. Text in echo
+#: gazette/author.php:32
+#: gazette/single.php:18
+#: gazette/archive.php:39
+#: gazette/layouts/blog.php:33
+msgid "Posted on"
+msgstr "Veröffentlicht am"
+
+#. Text in echo
+#: gazette/search.php:25
+msgid "Posted on "
+msgstr "Veröffentlicht am"
+
+#. Text in echo
+#: gazette/footer.php:6
+msgid "Powered by"
+msgstr "Powered by"
+
+#. Text in echo
+#: gazette/layouts/default.php:33
+#: gazette/includes/featured.php:37
+msgid "Read the full story"
+msgstr "Kompletten Beitrag lesen"
+
+#. Text in echo
+#: gazette/search.php:9
+#: gazette/search.php:49
+#: gazette/header.php:7
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#. Text in echo
+#: gazette/404.php:8
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "Sorry, aber das was du suchst ist nicht hier."
+
+#. Text in echo
+#: gazette/search.php:53
+msgid "Sorry. Your search yielded no results. Please search again."
+msgstr "Sorry, deine Suche war erfolglos. Bitte versuche es erneut."
+
+#. Text in echo
+#: gazette/comments.php:91
+msgid "Submit Comment"
+msgstr "Kommentar abschicken"
+
+#. Text in echo
+#: gazette/sidebar.php:14
+msgid "Subscribe "
+msgstr "Abonnieren"
+
+#. Text in echo
+#: gazette/sidebar.php:50
+msgid "Subscribe to the RSS feed"
+msgstr "Abonniere den RSS-Feed"
+
+#. Text in echo
+#: gazette/sidebar.php:51
+msgid "Subscribe to the feed via email"
+msgstr "Feed via E-Mail abonnieren"
+
+#. Text in echo
+#: gazette/header.php:13
+msgid "Tag Archive"
+msgstr "Tagarchiv"
+
+#. Text in echo
+#: gazette/sidebar.php:13
+msgid "Tags "
+msgstr "Tag"
+
+#. Text in echo
+#: gazette/archives.php:56
+msgid "The Last 30 Posts"
+msgstr "Die 30 neuesten Beiträge"
+
+#. Text in echo
+#: gazette/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Gib das Passwort ein um die Kommentare zu sehen."
+
+#. Text in echo
+#: gazette/single.php:36
+msgid "This post was written by:"
+msgstr "Dieser Beitrag wurde geschrieben von:"
+
+#. Text in echo
+#: gazette/comments.php:26
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in echo
+#: gazette/includes/video.php:29
+msgid "View More Videos"
+msgstr "Mehr Videos ansehen:"
+
+#. Text in echo
+#: gazette/comments.php:83
+msgid "Website"
+msgstr "Website"
+
+#. Text in function
+#: gazette/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Dein Kommentar muss erst moderiert werden"
+
+#. Text in function
+#: gazette/search.php:9
+msgid "\\'%s\\'"
+msgstr "\\'%s\\'"
+
+#. Text in echo
+#: gazette/footer.php:7
+msgid "by"
+msgstr "von"
+
+#. Text in echo
+#: gazette/comments.php:20
+msgid "to"
+msgstr "zu"
+

@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Helen Pluut <helenpluut@qurious.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: gazette/author.php:47
+#: gazette/single.php:56
+#: gazette/single.php:70
+#: gazette/archive.php:54
+#: gazette/search.php:40
+#: gazette/layouts/blog.php:52
+#: gazette/layouts/default.php:49
+msgid " Older Entries &raquo;"
+msgstr "Eerdere berichten &raquo;"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "% Comments"
+msgstr "% reacties"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "% Responses"
+msgstr "% reacties"
+
+#. Text in function
+#: gazette/author.php:46
+#: gazette/single.php:55
+#: gazette/single.php:69
+#: gazette/archive.php:53
+#: gazette/search.php:39
+#: gazette/layouts/blog.php:51
+#: gazette/layouts/default.php:48
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Nieuwe berichten"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "0 Comments"
+msgstr "0 reacties"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#. Text in function
+#: gazette/author.php:35
+#: gazette/page.php:18
+#: gazette/single.php:28
+#: gazette/archive.php:42
+#: gazette/search.php:28
+#: gazette/layouts/blog.php:37
+#: gazette/template-full-width.php:24
+msgid "<span class=\"continue\">Continue Reading</span>"
+msgstr "<span class=\"continue\">Lees verder</span>"
+
+#. Text in echo
+#: gazette/ads/mpu_ad.php:7
+#: gazette/ads/block_ads.php:7
+#: gazette/ads/top_ad.php:7
+msgid "Advert"
+msgstr "Advertentie"
+
+#. Text in echo
+#: gazette/archive.php:11
+#: gazette/archive.php:16
+#: gazette/archive.php:19
+#: gazette/archive.php:22
+#: gazette/header.php:11
+#: gazette/header.php:12
+msgid "Archive"
+msgstr "Archief"
+
+#. Text in echo
+#: gazette/author.php:17
+#: gazette/header.php:8
+msgid "Author Archives"
+msgstr "Auteursarchieven"
+
+#. Text in echo
+#: gazette/archives.php:19
+#: gazette/sitemap.php:31
+msgid "Categories"
+msgstr "Categorieën"
+
+#. Text in echo
+#: gazette/single.php:11
+msgid "Categorized"
+msgstr "Gecategoriseerd"
+
+#. Text in echo
+#: gazette/sitemap.php:56
+msgid "Comments"
+msgstr "Reacties"
+
+#. Text in echo
+#: gazette/sidebar.php:12
+msgid "Comments "
+msgstr "Reacties"
+
+#. Text in echo
+#: gazette/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Directe link naar deze reactie"
+
+#. Text in echo
+#: gazette/header.php:62
+msgid "Enter search keyword"
+msgstr "Voer zoeksleutelwoord in"
+
+#. Text in echo
+#: gazette/includes/featured.php:11
+msgid "Featured Stories"
+msgstr "Aanbevolen verhalen"
+
+#. Text in echo
+#: gazette/header.php:63
+msgid "Go"
+msgstr "Ga"
+
+#. Text in echo
+#: gazette/header.php:47
+#: gazette/header.php:49
+msgid "Home"
+msgstr "Home"
+
+#. Text in echo
+#: gazette/sidebar.php:11
+msgid "Latest "
+msgstr "Nieuwste"
+
+#. Text in function
+#: gazette/comments.php:58
+msgid "Leave a Reply"
+msgstr "Laat een reactie achter"
+
+#. Text in function
+#: gazette/comments.php:58
+msgid "Leave a Reply to %s"
+msgstr "Laat een reactie achter op %s"
+
+#. Text in echo
+#: gazette/comments.php:72
+msgid "Log out of this account"
+msgstr "Log uit van deze account"
+
+#. Text in echo
+#: gazette/comments.php:72
+msgid "Logout &raquo;"
+msgstr "Log uit &raquo;"
+
+#. Text in echo
+#: gazette/comments.php:80
+msgid "Mail (will not be published)"
+msgstr "Mail (wordt niet gepubliceerd)"
+
+#. Text in echo
+#: gazette/archives.php:29
+msgid "Monthly Archives"
+msgstr "Maandelijkse archieven"
+
+#. Text in echo
+#: gazette/comments.php:77
+msgid "Name"
+msgstr "Naam"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "No Responses"
+msgstr "Geen reacties"
+
+#. Text in echo
+#: gazette/search.php:49
+msgid "None Found"
+msgstr "Niets gevonden"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "One Response"
+msgstr "Eén reactie"
+
+#. Text in echo
+#: gazette/404.php:7
+msgid "Page Not Found!"
+msgstr "Pagina niet gevonden!"
+
+#. Text in echo
+#: gazette/sitemap.php:19
+msgid "Pages"
+msgstr "Pagina's"
+
+#. Text in echo
+#: gazette/includes/video.php:39
+msgid "Permalink to"
+msgstr "Permalink naar "
+
+#. Text in echo
+#: gazette/sidebar.php:32
+#: gazette/layouts/default.php:28
+#: gazette/layouts/default.php:33
+msgid "Permalink to "
+msgstr "Permalink naar "
+
+#. Text in echo
+#: gazette/author.php:31
+#: gazette/archive.php:38
+#: gazette/layouts/blog.php:28
+#: gazette/layouts/blog.php:32
+msgid "Permanent Link to"
+msgstr "Permanente link naar"
+
+#. Text in echo
+#: gazette/includes/theme-widgets.php:14
+msgid "Photos on "
+msgstr "Foto's op"
+
+#. Text in echo
+#: gazette/sidebar.php:10
+msgid "Popular "
+msgstr "Populair"
+
+#. Text in echo
+#: gazette/archives.php:43
+msgid "Popular Tags"
+msgstr "Populaire tags"
+
+#. Text in echo
+#: gazette/layouts/blog.php:40
+msgid "Posted in"
+msgstr "Geplaatst in"
+
+#. Text in echo
+#: gazette/search.php:31
+#: gazette/layouts/default.php:36
+msgid "Posted in "
+msgstr "Geplaatst in"
+
+#. Text in echo
+#: gazette/author.php:32
+#: gazette/single.php:18
+#: gazette/archive.php:39
+#: gazette/layouts/blog.php:33
+msgid "Posted on"
+msgstr "Geplaatst op"
+
+#. Text in echo
+#: gazette/search.php:25
+msgid "Posted on "
+msgstr "Geplaatst op"
+
+#. Text in echo
+#: gazette/footer.php:6
+msgid "Powered by"
+msgstr "Draait op"
+
+#. Text in echo
+#: gazette/layouts/default.php:33
+#: gazette/includes/featured.php:37
+msgid "Read the full story"
+msgstr "Lees het hele verhaal"
+
+#. Text in echo
+#: gazette/search.php:9
+#: gazette/search.php:49
+#: gazette/header.php:7
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#. Text in echo
+#: gazette/404.php:8
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "Sorry, maar de pagina waarnaar je op zoek bent is niet hier."
+
+#. Text in echo
+#: gazette/search.php:53
+msgid "Sorry. Your search yielded no results. Please search again."
+msgstr "Sorry. Je zoekopdracht leverde geen resultaten op. Zoek alsjeblieft opnieuw."
+
+#. Text in echo
+#: gazette/comments.php:91
+msgid "Submit Comment"
+msgstr "Verstuur reactie"
+
+#. Text in echo
+#: gazette/sidebar.php:14
+msgid "Subscribe "
+msgstr "Schrijf in"
+
+#. Text in echo
+#: gazette/sidebar.php:50
+msgid "Subscribe to the RSS feed"
+msgstr "Schrijf in op de RSS feed"
+
+#. Text in echo
+#: gazette/sidebar.php:51
+msgid "Subscribe to the feed via email"
+msgstr "Schrijf in op de feed via e-mail"
+
+#. Text in echo
+#: gazette/header.php:13
+msgid "Tag Archive"
+msgstr "Tag-archief"
+
+#. Text in echo
+#: gazette/sidebar.php:13
+msgid "Tags "
+msgstr "Tags"
+
+#. Text in echo
+#: gazette/archives.php:56
+msgid "The Last 30 Posts"
+msgstr "De laatste 30 berichten"
+
+#. Text in echo
+#: gazette/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit bericht is beveiligd met een wachtwoord. Voer het wachtwoord in om de reacties te zien."
+
+#. Text in echo
+#: gazette/single.php:36
+msgid "This post was written by:"
+msgstr "Dit bericht is geschreven door:"
+
+#. Text in echo
+#: gazette/comments.php:26
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in echo
+#: gazette/includes/video.php:29
+msgid "View More Videos"
+msgstr "Bekijk meer video's"
+
+#. Text in echo
+#: gazette/comments.php:83
+msgid "Website"
+msgstr "Website"
+
+#. Text in function
+#: gazette/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Je reactie wacht op moderatie."
+
+#. Text in function
+#: gazette/search.php:9
+msgid "\\'%s\\'"
+msgstr "\\'%s\\'"
+
+#. Text in echo
+#: gazette/footer.php:7
+msgid "by"
+msgstr "door"
+
+#. Text in echo
+#: gazette/comments.php:20
+msgid "to"
+msgstr "naar"
+

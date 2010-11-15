@@ -1,0 +1,86 @@
+a{
+	color: #000;
+}
+.subcol h2{
+	color: #fff;
+}
+.nav2 li:hover,
+.nav2 li.sfHover,
+.nav2 li.current,
+.nav2 a:focus, .nav2 a:hover, .nav2 a:active {
+	color: #333333;
+}
+.featured h3 a:hover {
+	color:#000;
+}
+.video-right h2{
+	color: #000;
+}
+.catlist h2{
+	color: #fff;
+	background-color: #3b5998;
+	background-image: url(default/ico-catlist.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+#nav1 .current_page_item a,
+#nav1 li.current,
+#nav1 li a:focus, #nav1 li a:hover, #nav1 li a:active {
+	background-color: #3b5998;
+	color: #FFFFFF;
+}
+#nav1 .current_page_item ul li a {
+	background-color: #FFFFFF;
+	color: #3b5998;
+}
+
+#nav1 .current_page_item ul li a:hover {
+	background-color: #3b5998;
+	color: #FFFFFF;
+}
+#nav ul  li.back {
+	background-color: #3b5998;
+	color: #FFFFFF;
+}
+
+#nav ul  li a {
+	color: #3b5998;
+}
+#nav2 {
+	background-color: #ffffff;
+	border-bottom:3px solid #3b5998;
+}
+#nav2 li a:hover {
+	background:#3b5998;
+	color:#fff;
+}
+.video-right h3{
+	color: #3b5998;
+}	
+ul.wooTabs li a.selected, ul.wooTabs li a:hover {
+	color: #FFFFFF;
+	background-color: #3b5998;
+}
+.flickr h2{
+	background-color: #3b5998;
+	color: #FFFFFF;
+}
+.widget h3 {
+	color: #FFFFFF;
+	background-color: #3b5998;
+}
+#footer a{
+	color: #3b5998;
+}
+#archivebox {
+	background-color: #d8deea;
+	border: 1px solid #899bc1;
+}
+#archivebox h4 em, #archivebox h2 em, #archivebox h3 em{
+	color:#3b5998;
+}
+#rss h2{
+	background-color: #d8deea;
+	border: 1px solid #899bc1;
+	color:#000000;
+}

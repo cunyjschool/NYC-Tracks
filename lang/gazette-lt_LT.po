@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: namaste <namaste@inbox.lt>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: gazette/author.php:47
+#: gazette/single.php:56
+#: gazette/single.php:70
+#: gazette/archive.php:54
+#: gazette/search.php:40
+#: gazette/layouts/blog.php:52
+#: gazette/layouts/default.php:49
+msgid " Older Entries &raquo;"
+msgstr "Ankstesni įrašai &raquo;"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+#, fuzzy
+msgid "% Comments"
+msgstr "% Komentarai"
+
+#. Text in function
+#: gazette/comments.php:20
+#, fuzzy
+msgid "% Responses"
+msgstr "% Atsiliepimai"
+
+#. Text in function
+#: gazette/author.php:46
+#: gazette/single.php:55
+#: gazette/single.php:69
+#: gazette/archive.php:53
+#: gazette/search.php:39
+#: gazette/layouts/blog.php:51
+#: gazette/layouts/default.php:48
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Naujesni įrašai"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+#, fuzzy
+msgid "0 Comments"
+msgstr "0 Komentarų"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+#, fuzzy
+msgid "1 Comment"
+msgstr "1 Komentaras"
+
+#. Text in function
+#: gazette/author.php:35
+#: gazette/page.php:18
+#: gazette/single.php:28
+#: gazette/archive.php:42
+#: gazette/search.php:28
+#: gazette/layouts/blog.php:37
+#: gazette/template-full-width.php:24
+#, fuzzy
+msgid "<span class=\"continue\">Continue Reading</span>"
+msgstr "<span class=\"continue\">Tęsti skaitymą</span>"
+
+#. Text in echo
+#: gazette/includes/video.php:23
+msgid "Added on"
+msgstr "Pridėta"
+
+#. Text in echo
+#: gazette/ads/mpu_ad.php:7
+#: gazette/ads/block_ads.php:7
+#: gazette/ads/top_ad.php:7
+msgid "Advert"
+msgstr "Reklama"
+
+#. Text in echo
+#: gazette/archive.php:11
+#: gazette/archive.php:16
+#: gazette/archive.php:19
+#: gazette/archive.php:22
+#: gazette/header.php:11
+#: gazette/header.php:12
+#, fuzzy
+msgid "Archive"
+msgstr "Archyvas"
+
+#. Text in echo
+#: gazette/author.php:17
+#: gazette/header.php:8
+#, fuzzy
+msgid "Author Archives"
+msgstr "Autoriaus archyvas"
+
+#. Text in echo
+#: gazette/archives.php:19
+#: gazette/sitemap.php:31
+#, fuzzy
+msgid "Categories"
+msgstr "Kategorijos"
+
+#. Text in echo
+#: gazette/single.php:11
+#, fuzzy
+msgid "Categorized"
+msgstr "Kategorijai"
+
+#. Text in echo
+#: gazette/sitemap.php:56
+#, fuzzy
+msgid "Comments"
+msgstr "Komentarai"
+
+#. Text in echo
+#: gazette/sidebar.php:11
+msgid "Comments "
+msgstr "Komentarai"
+
+#. Text in echo
+#: gazette/includes/video.php:21
+msgid "Currently Playing..."
+msgstr "Šiuo metu žaidžiama..."
+
+#. Text in echo
+#: gazette/includes/theme-comments.php:15
+#, fuzzy
+msgid "Direct link to this comment"
+msgstr "Tiesioginė komentaro nuoroda"
+
+#. Text in echo
+#: gazette/header.php:96
+#, fuzzy
+msgid "Enter search keyword"
+msgstr "Įrašykite ieškomą žodį..."
+
+#. Text in echo
+#: gazette/includes/featured.php:13
+msgid "Featured Stories"
+msgstr "Populiariausi straipsniai"
+
+#. Text in echo
+#: gazette/header.php:97
+msgid "Go"
+msgstr "Eiti"
+
+#. Text in echo
+#: gazette/header.php:81
+#: gazette/header.php:83
+#, fuzzy
+msgid "Home"
+msgstr "Pradžia"
+
+#. Text in echo
+#: gazette/sidebar.php:10
+#, fuzzy
+msgid "Latest "
+msgstr "Naujausi"
+
+#. Text in function
+#: gazette/comments.php:58
+#, fuzzy
+msgid "Leave a Reply"
+msgstr "Palikte atsiliepimą"
+
+#. Text in function
+#: gazette/comments.php:58
+#, fuzzy
+msgid "Leave a Reply to %s"
+msgstr "Palikte atsiliepimą %s"
+
+#. Text in echo
+#: gazette/comments.php:72
+#, fuzzy
+msgid "Log out of this account"
+msgstr "Atsijungti nuo sąskaitos"
+
+#. Text in echo
+#: gazette/comments.php:72
+msgid "Logout &raquo;"
+msgstr "Atsijungti &raquo;"
+
+#. Text in echo
+#: gazette/comments.php:80
+#, fuzzy
+msgid "Mail (will not be published)"
+msgstr "El.paštas (nebus rodomas)"
+
+#. Text in echo
+#: gazette/archives.php:29
+#, fuzzy
+msgid "Monthly Archives"
+msgstr "Mėnesinis archyvas"
+
+#. Text in echo
+#: gazette/comments.php:77
+#, fuzzy
+msgid "Name"
+msgstr "Vardas"
+
+#. Text in function
+#: gazette/comments.php:20
+#, fuzzy
+msgid "No Responses"
+msgstr "Nėra atsiliepimų"
+
+#. Text in echo
+#: gazette/search.php:49
+msgid "None Found"
+msgstr "Nieko nerasta"
+
+#. Text in function
+#: gazette/comments.php:20
+#, fuzzy
+msgid "One Response"
+msgstr "Vienas atsiliepimas"
+
+#. Text in echo
+#: gazette/404.php:7
+#, fuzzy
+msgid "Page Not Found!"
+msgstr "Puslapis nerastas!"
+
+#. Text in echo
+#: gazette/sitemap.php:19
+#, fuzzy
+msgid "Pages"
+msgstr "Puslapiai"
+
+#. Text in echo
+#: gazette/includes/video.php:39
+#, fuzzy
+msgid "Permalink to"
+msgstr "Nuoroda į"
+
+#. Text in echo
+#: gazette/sidebar.php:33
+#: gazette/layouts/default.php:28
+#: gazette/layouts/default.php:33
+#, fuzzy
+msgid "Permalink to "
+msgstr "Nuoroda į"
+
+#. Text in echo
+#: gazette/author.php:31
+#: gazette/archive.php:38
+#: gazette/layouts/blog.php:28
+#: gazette/layouts/blog.php:32
+msgid "Permanent Link to"
+msgstr "Tiesioginė nuoroda į"
+
+#. Text in echo
+#: gazette/includes/theme-widgets.php:14
+msgid "Photos on "
+msgstr "Paveikslėliai"
+
+#. Text in echo
+#: gazette/sidebar.php:9
+#, fuzzy
+msgid "Popular "
+msgstr "Populiarūs"
+
+#. Text in echo
+#: gazette/archives.php:43
+msgid "Popular Tags"
+msgstr "Populiarios žymės"
+
+#. Text in echo
+#: gazette/layouts/blog.php:40
+msgid "Posted in"
+msgstr "Paskelbta"
+
+#. Text in echo
+#: gazette/search.php:31
+#: gazette/layouts/default.php:36
+msgid "Posted in "
+msgstr "Paskelbta"
+
+#. Text in echo
+#: gazette/author.php:32
+#: gazette/single.php:18
+#: gazette/archive.php:39
+#: gazette/layouts/blog.php:33
+#, fuzzy
+msgid "Posted on"
+msgstr "Paskelbta"
+
+#. Text in echo
+#: gazette/search.php:25
+#, fuzzy
+msgid "Posted on "
+msgstr "Paskelbta"
+
+#. Text in echo
+#: gazette/footer.php:6
+#, fuzzy
+msgid "Powered by"
+msgstr "Sukurta"
+
+#. Text in echo
+#: gazette/layouts/default.php:33
+#: gazette/includes/featured.php:41
+msgid "Read the full story"
+msgstr "Skaityti visą staripsnį"
+
+#. Text in echo
+#: gazette/search.php:9
+#: gazette/search.php:49
+#: gazette/header.php:7
+#, fuzzy
+msgid "Search Results"
+msgstr "Paieškos rezultatai"
+
+#. Text in echo
+#: gazette/404.php:8
+#, fuzzy
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "Atsiprašome, bet puslapio, kurio ieškote, čia nėra."
+
+#. Text in echo
+#: gazette/search.php:53
+#, fuzzy
+msgid "Sorry. Your search yielded no results. Please search again."
+msgstr "Atsiprašome! Jūsų paieška nedavė jokių rezultatų. Prašome pabandyti dar kartą."
+
+#. Text in echo
+#: gazette/comments.php:91
+#, fuzzy
+msgid "Submit Comment"
+msgstr "Pridėti komentarą"
+
+#. Text in echo
+#: gazette/sidebar.php:13
+msgid "Subscribe "
+msgstr "Užsisakyti"
+
+#. Text in echo
+#: gazette/sidebar.php:53
+msgid "Subscribe to the RSS feed"
+msgstr "Užsisakyti RSS naujienas"
+
+#. Text in echo
+#: gazette/sidebar.php:54
+msgid "Subscribe to the feed via email"
+msgstr "Užsisakyti naujienas el.paštu"
+
+#. Text in echo
+#: gazette/header.php:13
+#, fuzzy
+msgid "Tag Archive"
+msgstr "Žymių archyvas"
+
+#. Text in echo
+#: gazette/sidebar.php:12
+#, fuzzy
+msgid "Tags "
+msgstr "Žymės"
+
+#. Text in echo
+#: gazette/archives.php:56
+#, fuzzy
+msgid "The Last 30 Posts"
+msgstr "30 naujausių įrašų"
+
+#. Text in echo
+#: gazette/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Šis pranešimas yra apsaugota slaptažodžiu. Įveskite slaptažodį, norėdami peržiūrėti komentarus."
+
+#. Text in echo
+#: gazette/single.php:36
+#, fuzzy
+msgid "This post was written by:"
+msgstr "Įrašą parašė"
+
+#. Text in echo
+#: gazette/comments.php:26
+#, fuzzy
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackback'as/Pingback'as"
+
+#. Text in echo
+#: gazette/includes/video.php:29
+msgid "View More Videos"
+msgstr "Žiūrėti daugiau video"
+
+#. Text in echo
+#: gazette/comments.php:83
+#, fuzzy
+msgid "Website"
+msgstr "Interneto svetainė"
+
+#. Text in function
+#: gazette/includes/theme-comments.php:20
+#, fuzzy
+msgid "Your comment is awaiting moderation"
+msgstr "Jūsų komenatras laikia patvirtinimo"
+
+#. Text in function
+#: gazette/search.php:9
+#, fuzzy
+msgid "\\'%s\\'"
+msgstr "\\'%s\\'"
+
+#. Text in echo
+#: gazette/footer.php:7
+#, fuzzy
+msgid "by"
+msgstr "sukurta"
+
+#. Text in echo
+#: gazette/comments.php:20
+#, fuzzy
+msgid "to"
+msgstr "į"
+

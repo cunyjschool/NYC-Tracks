@@ -1,0 +1,257 @@
+*** Gazette Changelog ***
+
+2010.01.30 - version 2.1.8
+ * /includes/js/wooslider.js - updated to 1.0.2 with validation fix
+ * /includes/featured.php - Made a rel="" to title="" to fix validation
+
+2010.01.06 - version 2.1.7
+ * /includes/js/wooslider.js - Added v.1.0.1, fixing some fade and zero timeout issues.
+ 
+2009.11.11 - version 2.1.6
+ * header.php - include of suckerfish.js for IE6 dropdowns
+
+2009.11.03 - version 2.1.5
+ * /header.php - Added new inserts, slider inits and hacks for updated wooslider.js
+ * /images/fleche1.gif - Modified
+ * /images/fleche2.gif - Modified
+ * /includes/featured.php - Modified syntax to work with wooslider.js
+ * /includes/theme-functions.php - Added slider height function for header output.
+ * /includes/theme-js.php - Removed GASlider.js and added wooslider.js
+ * /includes/theme-options.php - Added new options for tweaking slider in backend.
+ * /style.css - Removed slider related rules. See slider.css
+ * /includes/js/GASlider.js - DELETED
+ * /includes/js/wooslider.js - ADDED
+ * slider.css - ADDED
+ * slideshow.css - REMOVED
+
+2009.09.29 - version 2.1.4
+ * /includes/js/woo_tabs.js - Upgrade to support multiple tabs.
+
+2009.09.15 - version 2.1.3
+ * /functions/ - Framework update to 1.2
+ * /includes/popular.php - Used woo_get_image for thumbs and removed custom field check.
+ * sidebar.php - Used woo_get_image for thumbs and removed custom field check.
+
+2009.09.09 - version 2.1.2
+ * comments.php - changed id="comments_wrap" to id="comments"
+
+2009.09.07 - version 2.1.1
+ * archive.php - Added gettext to some missing elements.
+ * author.php - *NEW FILE* Added author template. 
+ * /lang/gazette.po - Added some new strings.
+
+2009.09.04 - version 2.1
+ * /functions/ - Framework Upgrdae to V1.0.8
+ * /includes/js/slider.js - DELETED
+ * /includes/js/woo_tabs.js - Small modification to hide instead for fadeOut
+ * /includes/js/GASlider.js - Added new slider script
+ * /includes/featured.php - modified to accomedate new slider script
+ * /includes/theme-js.php - Removed old slider and added the ne GASlider.js
+ 
+
+2009.09.03 - version 2.0.10
+  * archive.php - Fixed bug with thumbnails not showing in archives/search
+    search.php
+
+2009.08.31 - version 2.0.9
+  * template-full-width.php - Added full width page template
+  * style.css - Added styling for the full with page template. 
+
+2009.08.28 - version 2.0.8
+  * /lang/gazette.po - Added language file. See: http://www.woothemes.com/2009/08/how-to-translate-a-theme/
+  * Added gettext functions to template php files to support localization.
+
+2009.08.26 - version 2.0.7
+  * /functions/ - Framework update to 1.0.7
+  * /includes/theme-options.php - added two possible options for image sizing problems.
+
+2009.08.25 - version 2.0.6
+  * styles/* - remove #nav1 li.sfHover
+  * style.css - added #nav1 li:hover ul, #nav1 li.sfhover ul (line 169)
+
+2009.08.24 - version 2.0.5
+  * /functions/ - Updated Framework to 1.0.6
+  * /includes/js/slider.js - Added dymamic height functionality
+  * /includes/featured.php - Added dynamic height setting to woo_get_image
+  * /includes/theme-functions.php - Created header insert for CSS changes
+  * /includes/thems-options.php - Added carousel height option
+  * /style.css - Added black backgrounds to .slide and #slide-holder
+  * /includes/theme-js.php - Added superfish
+   * /includes/js/superfish.js - ADDED
+
+2009.08.11 - version 2.0.4
+  * /functions/ - Updated Framework to 1.0.5
+
+2009.08.10 - version 2.0.3
+  * layouts/blog.php - Fixed bug with thumbnails not showing on the 1-Column layout.
+
+2009.08.04 - version 2.0.2
+  * /functions/ - Updated Framework to 1.0.4a
+  * /includes/js/woo_tabs.js - Removed bug that caused the ovelapping of double lined list items
+
+2009.08.04 - version 2.0.1
+  * includes/theme-options.php - Updated options panel with upload functions for logo and favicon
+
+2009.07.31 - version 2.0
+  * functions.php - New framework
+  * functions/* - New framework files
+  * includes/* - Recommend replacing this folder completely
+  * ads/* - Replace the ads folder completely
+  * header.php - Removed javascript from head (replaced by includes/theme-js.php). Recommend replacing everything in the <head> section
+  * index.php - Recommend replacing this file completely
+  * single.php - Added woo_get_embed and woo_get_image
+  * style.css - Replaced tabber styles (line 818)
+  * sidebar.php - Recommend replacing this file completely. Ad calls different, tabber re-coded, and full width widgetized sidebar added 
+  * comments.php - Changed <h2> tags to <h3> tags for "Permalinks" and "Responses"
+  * template-imagegallery.php - Added this file and removed imagegallery.php
+  * styles/* - Added two new #nav1 classes (around line 33)
+  * home.php - DELETE! removed this file, and it must be deleted.
+ 
+2009.06.11 - version 1.4.9.1
+ * functions.php - Upgrade (get_category fix)
+
+2009.05.21 - version 1.4.9
+* slideshow.php - Fixed the slider "One Post Only White" bug 
+
+2009.05.06 - version 1.4.8
+* functions.php - removed pagenavi plugin (install the plugin to use it)
+* style.css - .wp-pagenavi styling changes
+* archive.php - changed more_entries
+  tag.php
+  search.php
+  layouts/default.php
+  layouts/blog.php
+
+2009.04.20 - version 1.4.7
+	* includes/video.php - Fixed pagination bug when video player below featured slideshow
+	* style.css - Fixed top margin when video player below featured slideshow 
+
+2009.04.12 - version 1.4.6
+	* layouts/default.php - Fixed bug with spacing between normal post boxes
+
+2009.03.18 - version 1.4.5
+	* includes/featured.php - added code to fix slideshow when image resizer disabled (line 39).
+
+2009.03.04 - version 1.4.4
+	* header.php - added page navigation to home page (include of global variables)
+	  functions/pagenavi.php - new file
+	  functions.php
+	  layouts/blog.php 
+	  layouts/default.php
+	  style.css - added page navi styling classes
+
+2009.03.04 - version 1.4.3
+	* slideshow.css - updated the featured slider
+	  header.php (include of jd.gallery.set.js)
+	  images/fleche*.png
+	  includes/featured.php
+	  includes/js/jd.gallery.js
+	  includes/js/jd.gallery.set.js
+	  includes/js/mootools.v1.11.js	  
+
+2009.02.19 - version 1.4.2
+	* style.css - removed padding-top from #nav2 li ul (IE7 bug)
+	* includes/js/suckerfish.js - IE6 category dropdown fix
+	
+2009.01.16 - version 1.4.1
+	* style.css - Fixed IE6 bugs in tabs (.col2 .mootabs_panel ul / .col2 .mootabs_panel)
+
+2009.01.12 - version 1.4
+	* header.php - Dropdown on page menu
+	  style.css
+	  styles/*.css
+	  includes/js/suckerfish.js
+	* home.php - default home layout if not selected
+
+2008.12.31 - version 1.3
+	* comments.php - Threaded comment support WP 2.7
+	  comments-legacy.php
+	  functions.php
+	  header.php ( wp_enqueue_script( 'comment-reply' ) )
+	  style.css ( /*========= THREADED COMMENTS =========* )
+
+2008.12.06 - version 1.2.4
+  * style.css - fixed IE7 bug with suckerfish
+  * sidebar.php - added div fix to fix IE7 display bug
+
+2008.11.08 - version 1.2.3
+  * functions.php - added option to disable image resizer (thumb.php)
+    archive.php
+	tag.php
+	search.php
+	layouts/default.php
+	layouts/blog.php
+	includes/featured.php
+	imagegallery.php
+
+2008.11.08 - version 1.2.2
+  * archives.php - Added 30 last posts
+
+2008.10.23 - version 1.2.1
+  * style.css - Fixed dropdowns in IE6
+
+2008.10.22 - version 1.2.0
+  * thumb.php - new version
+
+2008.10.09 - version 1.1.8
+  * functions/custom.php - Fixed bug with update of custom fields
+
+2008.10.08 - version 1.1.7
+  * style.css - IE7 Tag Cloud Bug Fix
+
+2008.10.02 - version 1.1.6
+  * functions.php - Changed post_title to post_name
+
+2008.09.23 - version 1.1.5
+  * includes/version.php - Fix advertise here link
+  * ads/ads-top.php - Fix advertise here link
+  * ads/ads-bottom.php - Fix advertise here link
+
+2008.09.04 - version 1.1.4
+  * sitemap.php - fixed wp_list_pages
+  * Missing ico-feat.gif added to styles/lightblue
+
+2008.09.04 - version 1.1.3
+  * style.css - Fixed flickr badge style error
+
+2008.09.02 - Version 1.1.2
+  * functions.php - Fixed archives variable name
+  * includes/version.php - Archive variable with page ID 
+  * layouts/default.php - Archive variable with page ID
+
+2008.08.21 - Version 1.1.1
+  * functions.php - changed default settings
+  * header.php - fixed wp_list_pages language bug
+
+2008.08.04 - Version 1.1
+
+  * changelog.txt - Added changelog and revised version number
+  * includes/easytube.php - Added easytube integrated
+  * includes/test.php - Added phpinfo() file for debugging resizer on buggy hosts
+  * includes/popular.php - Display popular posts in sidebar.php
+  * includes/comments.php - Display recent comments in sidebar.php
+  * functions/custom.php - Custom settings panel in WP post window
+  * sidebar.php - Changed tabs to use popular.php and comments.php
+  * sidebar.php - Added integrated flickr feed
+  * sidebar.php - remove <ul> for tags  
+  * header.php - fixed <? to <?php   
+  * header.php - moved suckerfish js to includes/js/suckerfish.js
+  * footer.php - remove google analytics slashes  
+  * functions.php - Added flickr options  
+  * functions.php - Added pages dropdown to archive
+  * functions.php - Fixed google analytics slashes when saving  
+  * functions.php - No <br/> before description of checkboxes
+  * functions.php - New border color for .mainrow 1px solid #D4E9FA
+  * functions.php - Author info is now an option
+  * single.php - Author info conditional tag
+  * includes/featured.php - Fixed display bug with posts appearing one below each other on page load
+  * style.css - Edited the #Nav2 dropdown menu using Suckerfish methodology to include a third level dropdown
+  * style.css - Added wp-caption classes for post images in Wordpress 2.5 and above
+  * style.css - Removed float:left and margin-right attributes from entry images
+  * style.css - Changed thumbnail float from left to right for archive and search results.
+  * single.php - Added pagination to the single posts pages and styled accordingly in style.css
+  * archive.php, search.php - Removed <hr /> line breaks below post titles
+  * archive.php, single.php - Moved tag reference to below post header
+  * sidebar.php - Removed hl3 references below subcols
+  * footer.php - Changed credit notes and added css styling
+  * ads/*.php - Updated ad management  

@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduard Luhtonen <eduard.luhtonen@wippies.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#. Text in function
+#: gazette/author.php:47
+#: gazette/single.php:56
+#: gazette/single.php:70
+#: gazette/archive.php:54
+#: gazette/search.php:40
+#: gazette/layouts/blog.php:52
+#: gazette/layouts/default.php:49
+msgid " Older Entries &raquo;"
+msgstr " Старые записи &raquo;"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "% Comments"
+msgstr "% комментариев"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "% Responses"
+msgstr "% ответов"
+
+#. Text in function
+#: gazette/author.php:46
+#: gazette/single.php:55
+#: gazette/single.php:69
+#: gazette/archive.php:53
+#: gazette/search.php:39
+#: gazette/layouts/blog.php:51
+#: gazette/layouts/default.php:48
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Новые записи "
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#. Text in function
+#: gazette/author.php:38
+#: gazette/archive.php:45
+#: gazette/search.php:31
+#: gazette/layouts/blog.php:40
+#: gazette/layouts/default.php:36
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#. Text in function
+#: gazette/author.php:35
+#: gazette/page.php:18
+#: gazette/single.php:28
+#: gazette/archive.php:42
+#: gazette/search.php:28
+#: gazette/layouts/blog.php:37
+#: gazette/template-full-width.php:24
+msgid "<span class=\"continue\">Continue Reading</span>"
+msgstr "<span class=\"continue\">Пролжить чтение</span>"
+
+#. Text in echo
+#: gazette/includes/video.php:23
+msgid "Added on"
+msgstr "Добавлено"
+
+#. Text in echo
+#: gazette/ads/mpu_ad.php:7
+#: gazette/ads/block_ads.php:7
+#: gazette/ads/top_ad.php:7
+msgid "Advert"
+msgstr "Объявление"
+
+#. Text in echo
+#: gazette/archive.php:11
+#: gazette/archive.php:16
+#: gazette/archive.php:19
+#: gazette/archive.php:22
+#: gazette/header.php:11
+#: gazette/header.php:12
+msgid "Archive"
+msgstr "Архив"
+
+#. Text in echo
+#: gazette/author.php:17
+#: gazette/header.php:8
+msgid "Author Archives"
+msgstr "Архивы автора"
+
+#. Text in echo
+#: gazette/archives.php:19
+#: gazette/sitemap.php:31
+msgid "Categories"
+msgstr "Разделы"
+
+#. Text in echo
+#: gazette/single.php:11
+msgid "Categorized"
+msgstr "Разбито на категории"
+
+#. Text in echo
+#: gazette/sitemap.php:56
+msgid "Comments"
+msgstr "Комментарии"
+
+#. Text in echo
+#: gazette/sidebar.php:11
+msgid "Comments "
+msgstr "Комментарии "
+
+#. Text in echo
+#: gazette/includes/video.php:21
+msgid "Currently Playing..."
+msgstr "Проигрывается в данный момент..."
+
+#. Text in echo
+#: gazette/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Прямая ссылка на этот комментарий"
+
+#. Text in echo
+#: gazette/header.php:96
+msgid "Enter search keyword"
+msgstr "Введите ключевое слово поиска"
+
+#. Text in echo
+#: gazette/includes/featured.php:13
+msgid "Featured Stories"
+msgstr "Рекомендованные истории"
+
+#. Text in echo
+#: gazette/header.php:97
+msgid "Go"
+msgstr "Идти"
+
+#. Text in echo
+#: gazette/header.php:81
+#: gazette/header.php:83
+msgid "Home"
+msgstr "Главная"
+
+#. Text in echo
+#: gazette/sidebar.php:10
+msgid "Latest "
+msgstr "Послдение "
+
+#. Text in function
+#: gazette/comments.php:58
+msgid "Leave a Reply"
+msgstr "Написать ответ"
+
+#. Text in function
+#: gazette/comments.php:58
+msgid "Leave a Reply to %s"
+msgstr "Написать ответ %s"
+
+#. Text in echo
+#: gazette/comments.php:72
+msgid "Log out of this account"
+msgstr "Выйти из данной учетной записи"
+
+#. Text in echo
+#: gazette/comments.php:72
+msgid "Logout &raquo;"
+msgstr "Выйти &raquo;"
+
+#. Text in echo
+#: gazette/comments.php:80
+msgid "Mail (will not be published)"
+msgstr "Почта (не будет опубликовано)"
+
+#. Text in echo
+#: gazette/archives.php:29
+msgid "Monthly Archives"
+msgstr "Архив по месяцам"
+
+#. Text in echo
+#: gazette/comments.php:77
+msgid "Name"
+msgstr "Имя"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "No Responses"
+msgstr "Ответов нет"
+
+#. Text in echo
+#: gazette/search.php:49
+msgid "None Found"
+msgstr "Ничего на найдено"
+
+#. Text in function
+#: gazette/comments.php:20
+msgid "One Response"
+msgstr "1 ответ"
+
+#. Text in echo
+#: gazette/404.php:7
+msgid "Page Not Found!"
+msgstr "Страница не найдена!"
+
+#. Text in echo
+#: gazette/sitemap.php:19
+msgid "Pages"
+msgstr "Старницы"
+
+#. Text in echo
+#: gazette/includes/video.php:39
+msgid "Permalink to"
+msgstr "Постоянна ссылка на"
+
+#. Text in echo
+#: gazette/sidebar.php:33
+#: gazette/layouts/default.php:28
+#: gazette/layouts/default.php:33
+msgid "Permalink to "
+msgstr "Постоянная ссылка на "
+
+#. Text in echo
+#: gazette/author.php:31
+#: gazette/archive.php:38
+#: gazette/layouts/blog.php:28
+#: gazette/layouts/blog.php:32
+msgid "Permanent Link to"
+msgstr "Постоянная ссылка на"
+
+#. Text in echo
+#: gazette/includes/theme-widgets.php:14
+msgid "Photos on "
+msgstr "Фотографии на "
+
+#. Text in echo
+#: gazette/sidebar.php:9
+msgid "Popular "
+msgstr "Популярные "
+
+#. Text in echo
+#: gazette/archives.php:43
+msgid "Popular Tags"
+msgstr "Популярные метки"
+
+#. Text in echo
+#: gazette/layouts/blog.php:40
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#. Text in echo
+#: gazette/search.php:31
+#: gazette/layouts/default.php:36
+msgid "Posted in "
+msgstr "Опубликовано в "
+
+#. Text in echo
+#: gazette/author.php:32
+#: gazette/single.php:18
+#: gazette/archive.php:39
+#: gazette/layouts/blog.php:33
+msgid "Posted on"
+msgstr "Опубликовано на"
+
+#. Text in echo
+#: gazette/search.php:25
+msgid "Posted on "
+msgstr "Опубликовано"
+
+#. Text in echo
+#: gazette/footer.php:6
+msgid "Powered by"
+msgstr "Работает на"
+
+#. Text in echo
+#: gazette/layouts/default.php:33
+#: gazette/includes/featured.php:41
+msgid "Read the full story"
+msgstr "Читать всю историю"
+
+#. Text in echo
+#: gazette/search.php:9
+#: gazette/search.php:49
+#: gazette/header.php:7
+msgid "Search Results"
+msgstr "Результат поиска"
+
+#. Text in echo
+#: gazette/404.php:8
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "Страницы, которую вы ищете, здесь нет."
+
+#. Text in echo
+#: gazette/search.php:53
+msgid "Sorry. Your search yielded no results. Please search again."
+msgstr "Ваш поиск не принес результатов. Пожалуйста, попробуйте еще раз."
+
+#. Text in echo
+#: gazette/comments.php:91
+msgid "Submit Comment"
+msgstr "Добавить комментарий"
+
+#. Text in echo
+#: gazette/sidebar.php:13
+msgid "Subscribe "
+msgstr "Подписаться "
+
+#. Text in echo
+#: gazette/sidebar.php:53
+msgid "Subscribe to the RSS feed"
+msgstr "Подписаться на RSS-канал"
+
+#. Text in echo
+#: gazette/sidebar.php:54
+msgid "Subscribe to the feed via email"
+msgstr "Подписаться на канал через электронную почту"
+
+#. Text in echo
+#: gazette/header.php:13
+msgid "Tag Archive"
+msgstr "Архив меток"
+
+#. Text in echo
+#: gazette/sidebar.php:12
+msgid "Tags "
+msgstr "Метки "
+
+#. Text in echo
+#: gazette/archives.php:56
+msgid "The Last 30 Posts"
+msgstr "Последние 30 сообщений"
+
+#. Text in echo
+#: gazette/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+#. Text in echo
+#: gazette/single.php:36
+msgid "This post was written by:"
+msgstr "Это сообщение было написано:"
+
+#. Text in echo
+#: gazette/comments.php:26
+msgid "Trackbacks/Pingbacks"
+msgstr "Трэкбэкс/Пингбэкс"
+
+#. Text in echo
+#: gazette/includes/video.php:29
+msgid "View More Videos"
+msgstr "Просмотреть еще видео"
+
+#. Text in echo
+#: gazette/comments.php:83
+msgid "Website"
+msgstr "Вебсайт"
+
+#. Text in function
+#: gazette/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation"
+msgstr "Ваш комментарий ожидает утверждения"
+
+#. Text in function
+#: gazette/search.php:9
+msgid "\\'%s\\'"
+msgstr "\\'%s\\'"
+
+#. Text in echo
+#: gazette/footer.php:7
+msgid "by"
+msgstr "по"
+
+#. Text in echo
+#: gazette/comments.php:20
+msgid "to"
+msgstr "к"
